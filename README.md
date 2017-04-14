@@ -1,4 +1,6 @@
 # test-repo
 Repository used to learn git
 
-Add some stuff
+Push [remote] [branch] adds files to repo
+
+git pull retrieves and merges files
